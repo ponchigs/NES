@@ -1,1 +1,1 @@
-https://github.com/ponchigs/NES.git
+https://ponchigs.github.io/NES/
